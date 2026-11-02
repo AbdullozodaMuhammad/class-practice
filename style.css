@@ -315,7 +315,7 @@ body {
   margin-top: 15px;
 }
 
-/* .about {
+.about {
   display: flex;
   align-items: center;
   padding: 40px 0;
@@ -346,7 +346,7 @@ body {
   margin-bottom: 15px;
 }
 
-.location {
+/* .location {
   margin: 60px 0;
   position: relative;
   padding-bottom: 65px;

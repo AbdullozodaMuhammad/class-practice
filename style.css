@@ -233,7 +233,7 @@ body {
   font-size: 11px;
 }
 
-/* .history {
+.history {
   display: flex;
   align-items: center;
   background: #eff9f5;
@@ -268,7 +268,7 @@ body {
   margin-top: 10px;
 }
 
-.faq {
+/* .faq {
   display: flex;
   gap: 35px;
   padding: 45px 0;

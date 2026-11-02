@@ -421,7 +421,7 @@ body {
   border-radius: 20px;
 }
 
-/* .foot {
+.foot {
   max-width: 1150px;
   margin: auto;
   padding: 60px;
@@ -627,4 +627,4 @@ body {
   .foot-text {
     width: 100%;
   }
-} */
+}

@@ -160,7 +160,7 @@ body {
   border-radius: 8px;
 }
 
-/* .popular {
+.popular {
   padding: 40px 0;
 }
 
@@ -233,7 +233,7 @@ body {
   font-size: 11px;
 }
 
-.history {
+/* .history {
   display: flex;
   align-items: center;
   background: #eff9f5;
@@ -309,7 +309,7 @@ body {
   line-height: 19px;
 }
 
-.question p + p {
+.question:nth-child(2) {
   color: #888;
   font-size: 12px;
   margin-top: 15px;

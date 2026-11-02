@@ -268,7 +268,7 @@ body {
   margin-top: 10px;
 }
 
-/* .faq {
+.faq {
   display: flex;
   gap: 35px;
   padding: 45px 0;
@@ -315,7 +315,7 @@ body {
   margin-top: 15px;
 }
 
-.about {
+/* .about {
   display: flex;
   align-items: center;
   padding: 40px 0;

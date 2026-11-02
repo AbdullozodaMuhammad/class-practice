@@ -48,7 +48,7 @@ body {
   cursor: pointer;
 }
 
-/* .hero {
+.hero {
   position: relative;
   display: flex;
   align-items: center;
@@ -160,7 +160,7 @@ body {
   border-radius: 8px;
 }
 
-.popular {
+/* .popular {
   padding: 40px 0;
 }
 

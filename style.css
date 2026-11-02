@@ -346,7 +346,7 @@ body {
   margin-bottom: 15px;
 }
 
-/* .location {
+.location {
   margin: 60px 0;
   position: relative;
   padding-bottom: 65px;
@@ -421,7 +421,7 @@ body {
   border-radius: 20px;
 }
 
-.foot {
+/* .foot {
   max-width: 1150px;
   margin: auto;
   padding: 60px;
